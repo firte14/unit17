@@ -34,7 +34,6 @@ public class workoutScreen extends AppCompatActivity implements View.OnClickList
             return insets;
         });
 
-        // Initialization
         back_button = findViewById(R.id.back_button);
         back_button.setOnClickListener(this);
 

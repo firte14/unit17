@@ -92,6 +92,6 @@ public class workoutScreen extends AppCompatActivity implements View.OnClickList
 
     @Override
     public void onClick(View v) {
-        finish(); // Handles back button
+        finish();
     }
 }
